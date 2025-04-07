@@ -5,7 +5,7 @@
  <img src="gif/512.gif" width="88">
 </div>
 
-<h3 align="center">Olá! Eu me chamo Érica, tenho 24 anos e sou     estudante   de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e sempre em busca de novos aprendizados. Tenho experiência (experiência em projetos pessoais) e interesse em diversas áreas da computação, incluindo:<br>
+<h3 align="center">Olá! Eu sou a Érica, tenho 24 anos e sou  estudante  de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e sempre em busca de novos aprendizados. Tenho experiência (experiência em projetos pessoais) e interesse em diversas áreas da computação, incluindo:<br>
 💻 Programação Web – Desenvolvimento de interfaces e aplicações interativas.
 👩🏻‍💻 Sistemas Linux e Windows – Administração, configuração e otimização de sistemas operacionais.
 ☁️ Virtualização de Servidores – Implantação e gerenciamento de ambientes virtuais.
